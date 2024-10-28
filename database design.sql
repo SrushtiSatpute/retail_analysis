@@ -1,0 +1,2 @@
+CREATE DATABASE CustomerDB;
+USE CustomerDB;
